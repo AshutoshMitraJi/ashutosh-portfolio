@@ -70,25 +70,24 @@ npm start
 4. Visit: http://localhost:3000
 
 📤 Deployment
-This portfolio is continuously deployed using Netlify.
+- This portfolio is continuously deployed using Netlify.
 
 Build Settings:
-Build Command: npm run build
-Publish Directory: build
-Branch: master
-Note: Includes _redirects file to fix React Router 404 issues on refresh.
+- Build Command: npm run build
+- Publish Directory: build
+- Branch: master
+- Note: Includes _redirects file to fix React Router 404 issues on refresh.
 
 🧠 Future Scope
-Add project section with GitHub API or CMS
-Blog/Articles section
-Performance optimization (Lighthouse)
-Accessibility improvements (WCAG 2.1)
+- Add project section with GitHub API or CMS
+- Blog/Articles section
+- Performance optimization (Lighthouse)
+- Accessibility improvements (WCAG 2.1)
 
 🤝 Connect with Me
-📧 [Email](ashutoshmitra110@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/ashutoshmitraji/)
-🛠️ [GitHub](https://github.com/AshutoshMitraJi)
-🌐 [Live Site](https://ashutosh-web-portfolio.netlify.app/)
-
+- 📧 [Email](ashutoshmitra110@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshmitraji/)
+- 🛠️ [GitHub](https://github.com/AshutoshMitraJi)
+- 🌐 [Live Site](https://ashutosh-web-portfolio.netlify.app/)
 
 Built with ❤️ by Ashutosh Mitra
