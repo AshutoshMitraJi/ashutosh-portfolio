@@ -36,6 +36,7 @@ Welcome to my personal developer portfolio built with **React**, styled with **B
 
 ## 🗂️ Folder Structure
 
+```bash
 ashutosh-portfolio-web/
 ├── public/
 ├── src/
@@ -47,6 +48,7 @@ ashutosh-portfolio-web/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 
 ---
 
@@ -56,18 +58,16 @@ ashutosh-portfolio-web/
 ```bash
 git clone https://github.com/AshutoshMitraJi/ashutosh-portfolio-web.git
 cd ashutosh-portfolio-web
-Install dependencies:
 ```
+2. Install dependencies:
 ```bash
 npm install
 ```
-```bash
-Start the server:
-```
+3. Start the server:
 ```bash
 npm start
 ```
-Visit: http://localhost:3000
+4. Visit: http://localhost:3000
 
 📤 Deployment
 This portfolio is continuously deployed using Netlify.
