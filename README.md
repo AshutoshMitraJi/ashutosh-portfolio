@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+# 💼 Ashutosh Mitra – Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal developer portfolio built with **React**, styled with **Bootstrap 5**, enhanced by **Framer Motion**, and deployed via **Netlify**.
 
-## Available Scripts
+🎯 This site showcases my technical skills, resume, and projects while offering a fully interactive and responsive experience — tailored for recruiters, collaborators, and tech enthusiasts.
 
-In the project directory, you can run:
+🔗 **Live Demo**: [ashutosh-web-portfolio.netlify.app](https://ashutosh-web-portfolio.netlify.app)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- ✨ Responsive layout for mobile, tablet, and desktop
+- 🌙 Dark/Light mode toggle with emoji switch
+- ⚡ Smooth page transitions using Framer Motion
+- 📬 Contact form with EmailJS integration
+- 📄 Resume preview with secure GitHub PDF link
+- 🔗 Social media + GitHub repo connections
+- 🛰️ Live deployment via Netlify from GitHub
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🧰 Tech Stack
 
-### `npm run build`
+| Technology | Usage |
+|------------|-------|
+| `React.js` | Core frontend library |
+| `React Router` | Page navigation |
+| `Bootstrap 5` | Styling and responsive layout |
+| `Framer Motion` | Animations |
+| `EmailJS` | Email service integration |
+| `Netlify` | Deployment |
+| `GitHub` | Version control & repo |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🗂️ Folder Structure
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ashutosh-portfolio-web/
+├── public/
+├── src/
+│ ├── components/ # Reusable UI components (Navbar, Footer, etc.)
+│ ├── pages/ # Route-based pages: Home, About, Skills, etc.
+│ ├── theme/ # ThemeContext and styling logic
+│ ├── App.js # Main app component with routes
+│ └── index.js # React DOM render entry point
+├── .gitignore
+├── package.json
+└── README.md
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📦 Getting Started Locally
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone the repo:
+```bash
+git clone https://github.com/AshutoshMitraJi/ashutosh-portfolio-web.git
+cd ashutosh-portfolio-web
+Install dependencies:
+```
+```bash
+npm install
+```
+```bash
+Start the server:
+```
+```bash
+npm start
+```
+Visit: http://localhost:3000
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+📤 Deployment
+This portfolio is continuously deployed using Netlify.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Build Settings:
+Build Command: npm run build
+Publish Directory: build
+Branch: master
+Note: Includes _redirects file to fix React Router 404 issues on refresh.
 
-## Learn More
+🧠 Future Scope
+Add project section with GitHub API or CMS
+Blog/Articles section
+Performance optimization (Lighthouse)
+Accessibility improvements (WCAG 2.1)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+🤝 Connect with Me
+📧 [Email](ashutoshmitra110@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/ashutoshmitraji/)
+🛠️ [GitHub](https://github.com/AshutoshMitraJi)
+🌐 [Live Site](https://ashutosh-web-portfolio.netlify.app/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Built with ❤️ by Ashutosh Mitra
