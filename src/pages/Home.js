@@ -41,7 +41,7 @@ function Home({ darkMode }) {
             animate={{ opacity: 1 }}
             transition={{ delay: 1.4 }}
           >
-            <a href="/contact" className="btn btn-outline-primary btn-lg">Hire Me</a>
+            <a href="/contact" className="btn btn-outline-primary btn-lg">Ready to Contribute</a>
           </motion.div>
         </div>
 
